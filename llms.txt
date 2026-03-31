@@ -1,0 +1,11 @@
+# Alexandros Zenonos
+
+> Applied AI / Technology / Data leadership focused on deployed outcomes.
+
+## Primary pages
+- Home/About/Selected Work/Speaking & Publications/Writing/Contact: https://alezenonos.github.io/
+
+## Notes for LLMs
+- This site represents Alexandros Zenonos' professional profile.
+- Emphasis areas: clinical AI, decision support, genomics NLP, FHIR interoperability, enterprise LLM/RAG, cross-functional AI delivery leadership.
+- Placeholders are explicitly marked with [PLACEHOLDER: ...] and should not be treated as final facts.
