@@ -1,37 +1,73 @@
-Story by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Alexandros Zenonos — Personal Website (GitHub Pages)
+===================================================
 
+Purpose
+-------
+This repository hosts a static personal brand website for Alexandros Zenonos,
+positioned for:
+- Search discovery on full name queries.
+- Recruiter and hiring manager evaluation for senior AI/data/technology roles.
+- Machine readability by search engines and LLM-based systems.
 
-Say hello to Story, a brand new responsive one-pager for HTML5 UP! Inspired by my work
-on Carrd*, Story is built to be extremely modular and tweakable, and as such is entirely
-built on reusable, insanely customizable elements (like "spotlight" and "gallery") that
-can be endlessly duplicated and tweaked into whatever you need to tell your story --
-without, in many cases, touching *any* CSS. Check out index-demo.html for an interactive
-demo, and index.html for the actual template. Enjoy!
+Site architecture
+-----------------
+The website is intentionally static and GitHub Pages-friendly.
 
-Demo images** courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Primary pages:
+- / (Home): value proposition, proof strip, role mapping, key CTAs.
+- /about.html: leadership profile and technical/operating strengths.
+- /work.html: selected case-study style work examples.
+- /speaking.html: speaking, publications, mentoring, and community signals.
+- /contact.html: outreach entry points and recruiter guidance.
 
-PS: Delete index-demo.html and assets/js/demo.js when you're done messing with the demo
-as neither are needed in production :)
+Tech stack
+----------
+- Static HTML + CSS + JS
+- Base visual theme from HTML5 UP Story template
+- Additional local CSS in assets/css/site.css for navigation, cards, and accessibility
+- No framework/runtime build step required
 
-(* = my other side project -- carrd.co)
-(** = not included)
+Discovery / SEO files
+---------------------
+- robots.txt
+- sitemap.xml
+- llms.txt
+- JSON-LD structured data in page heads (ProfilePage / Person)
 
-AJ
-aj@lkn.io | @ajlkn
+How to update content safely
+----------------------------
+1) Do not invent achievements, metrics, publications, or client details.
+2) Keep confidential/internal details out of public pages.
+3) Prefer concrete, evidence-led language over hype.
+4) If adding/removing pages, update:
+   - navigation links across pages
+   - sitemap.xml
+   - llms.txt
+   - metadata (title/description/canonical/OG)
 
+Manual placeholders to complete
+-------------------------------
+- Professional email address on contact.html
+- LinkedIn profile URL on contact.html
+- Public references/links for speaking/publication items where available
 
-Credits:
+Local preview
+-------------
+From repo root:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+    python3 -m http.server 8000
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+Then open http://localhost:8000
 
-	Other:
-		jQuery (jquery.com)
-		Misc. Sass functions (@HugoGiraudel)
-		Skel (skel.io)
+GitHub Pages deployment
+-----------------------
+- Publish from this repository via GitHub Pages settings.
+- For a custom domain, create a root-level file named CNAME containing exactly
+  the verified domain value (see CNAME.example for format guidance).
+
+Maintenance checklist
+---------------------
+- Review page metadata for accuracy after significant copy changes.
+- Keep sitemap.xml lastmod values current.
+- Keep llms.txt aligned with actual page URLs and claims.
+- Validate internal links after structural edits.
