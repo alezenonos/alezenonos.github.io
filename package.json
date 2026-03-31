@@ -1,0 +1,13 @@
+{
+  "name": "alezenonos.github.io",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static GitHub Pages site with Vercel deployment automation",
+  "scripts": {
+    "vercel:pull": "vercel pull --yes --environment=production --token=$VERCEL_TOKEN",
+    "vercel:deploy": "vercel build --prod --token=$VERCEL_TOKEN && vercel deploy --prebuilt --prod --token=$VERCEL_TOKEN"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.5.0"
+  }
+}
