@@ -53,6 +53,12 @@
 	gap: 1rem;
 }
 
+.featured-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+	gap: 1rem;
+}
+
 .card {
 	padding: 1rem;
 	border: 1px solid rgba(0, 0, 0, 0.09);
@@ -109,4 +115,13 @@
 
 .case-study p {
 	margin-bottom: 0.55rem;
+}
+
+.profile-card {
+	text-decoration: none;
+	color: inherit;
+}
+
+.profile-card h3 .icon {
+	margin-right: 0.35rem;
 }
