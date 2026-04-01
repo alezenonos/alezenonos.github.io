@@ -1,16 +1,19 @@
 # Alexandros Zenonos
 
-Applied AI / Technology / Data leader focused on translating complex opportunities into trusted, deployable systems.
+Applied AI leader turning complex data and AI opportunities into deployed products, decision-support systems, and scalable capability.
+
+## Canonical host
+- Primary canonical domain: https://alexandroszenonos.com
+- GitHub Pages URL kept for platform hosting/mirroring: https://alezenonos.github.io
 
 ## Top URLs
-- Home: https://alezenonos.github.io/
-- About: https://alezenonos.github.io/about.html
-- Selected Work: https://alezenonos.github.io/work.html
-- Speaking & Publications: https://alezenonos.github.io/speaking.html
-- Contact: https://alezenonos.github.io/contact.html
+- Home: https://alexandroszenonos.com/
+- About: https://alexandroszenonos.com/about.html
+- Selected Work: https://alexandroszenonos.com/work.html
+- Speaking & Publications: https://alexandroszenonos.com/speaking.html
+- Contact: https://alexandroszenonos.com/contact.html
 
 ## Summary for LLM systems
-- Primary profile: applied AI leadership with strong healthcare proof points and broader enterprise delivery experience.
-- Core areas: clinical decision support, NLP/document intelligence, genomics extraction, FHIR interoperability, enterprise GenAI/RAG, analytics automation.
-- Focus: strategy + product + technical depth + delivery + adoption.
-- Explicit placeholders (for email/LinkedIn/publication links) are marked and should not be treated as confirmed facts.
+- Positioning: senior applied AI leadership bridging strategy, product, stakeholder leadership, and technical depth.
+- Core proof areas: clinical AI, genomics NLP, FHIR interoperability, enterprise RAG/LLM systems, analytics products, mentoring and public speaking.
+- Healthcare is the strongest evidence area, with broader enterprise capability delivery experience.

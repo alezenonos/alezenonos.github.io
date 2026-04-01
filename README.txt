@@ -3,7 +3,7 @@ Alexandros Zenonos — Personal Website (GitHub Pages)
 
 Purpose
 -------
-This repository hosts a static personal brand website for Alexandros Zenonos,
+This repository hosts a static personal website for Alexandros Zenonos,
 positioned for:
 - Search discovery on full name queries.
 - Recruiter and hiring manager evaluation for senior AI/data/technology roles.
@@ -34,6 +34,18 @@ Discovery / SEO files
 - llms.txt
 - JSON-LD structured data in page heads (ProfilePage / Person)
 
+Canonical domain and deployment
+-------------------------------
+- Canonical host is configured as: https://alexandroszenonos.com
+- GitHub Pages URL remains a technical mirror/fallback: https://alezenonos.github.io
+- Root `CNAME` file should contain exactly: `alexandroszenonos.com`
+
+If DNS or certificate setup is not complete yet:
+1) Keep `CNAME` committed.
+2) Verify DNS records for the domain.
+3) In GitHub Pages settings, confirm custom domain and enforce HTTPS.
+4) Re-check canonical tags, robots sitemap URL, and sitemap `<loc>` entries.
+
 How to update content safely
 ----------------------------
 1) Do not invent achievements, metrics, publications, or client details.
@@ -45,12 +57,6 @@ How to update content safely
    - llms.txt
    - metadata (title/description/canonical/OG)
 
-Manual placeholders to complete
--------------------------------
-- Professional email address on contact.html
-- LinkedIn profile URL on contact.html
-- Public references/links for speaking/publication items where available
-
 Local preview
 -------------
 From repo root:
@@ -58,16 +64,3 @@ From repo root:
     python3 -m http.server 8000
 
 Then open http://localhost:8000
-
-GitHub Pages deployment
------------------------
-- Publish from this repository via GitHub Pages settings.
-- For a custom domain, create a root-level file named CNAME containing exactly
-  the verified domain value (see CNAME.example for format guidance).
-
-Maintenance checklist
----------------------
-- Review page metadata for accuracy after significant copy changes.
-- Keep sitemap.xml lastmod values current.
-- Keep llms.txt aligned with actual page URLs and claims.
-- Validate internal links after structural edits.
