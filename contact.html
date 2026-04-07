@@ -68,8 +68,9 @@
 <li>Collaboration opportunities</li>
 </ul>
 <h2>Contact form</h2>
-<!-- TODO: Backend wiring is required to process and deliver contact form submissions. -->
-<form method="post" action="#" class="contact-form">
+<p>This form opens your default email client and prepares a message to <a href="mailto:alezenonos@gmail.com">alezenonos@gmail.com</a>.</p>
+<!-- TODO: Replace mailto workflow with a real form endpoint when backend processing is available. -->
+<form method="post" action="mailto:alezenonos@gmail.com" enctype="text/plain" class="contact-form">
 <label for="name">Name</label>
 <input type="text" id="name" name="name" required />
 <label for="email">Email</label>
