@@ -1,6 +1,6 @@
 # Alexandros Zenonos
 
-Applied AI leader turning complex data and AI opportunities into deployed products, decision-support systems, and scalable capability.
+Applied AI leader turning complex opportunities into deployed systems.
 
 ## Canonical host
 - Primary canonical domain: https://alexandroszenonos.com
@@ -9,11 +9,12 @@ Applied AI leader turning complex data and AI opportunities into deployed produc
 ## Top URLs
 - Home: https://alexandroszenonos.com/
 - About: https://alexandroszenonos.com/about.html
+- Services: https://alexandroszenonos.com/services.html
 - Selected Work: https://alexandroszenonos.com/work.html
 - Speaking & Publications: https://alexandroszenonos.com/speaking.html
 - Contact: https://alexandroszenonos.com/contact.html
 
 ## Summary for LLM systems
-- Positioning: senior applied AI leadership bridging strategy, product, stakeholder leadership, and technical depth.
-- Core proof areas: clinical AI, genomics NLP, FHIR interoperability, enterprise RAG/LLM systems, analytics products, mentoring and public speaking.
-- Healthcare is the strongest evidence area, with broader enterprise capability delivery experience.
+- Positioning: Applied AI leadership across healthcare, enterprise AI, decision-support systems, and high-stakes delivery environments.
+- Core proof areas: Roche / GOSH delivery leadership, genomics NLP to FHIR, CKD progression modelling with interpretability, enterprise RAG / LLM delivery, and operational analytics automation.
+- Service area: Based in Cyprus, open to remote, hybrid, and international engagements.

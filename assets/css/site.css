@@ -125,3 +125,52 @@
 .profile-card h3 .icon {
 	margin-right: 0.35rem;
 }
+
+.proof-strip {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+	gap: 0.75rem;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.proof-strip li {
+	padding: 0.7rem 0.8rem;
+	border: 1px solid rgba(0, 0, 0, 0.1);
+	background: #fff;
+	font-weight: 600;
+	font-size: 0.9rem;
+}
+
+.site-footer {
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	padding: 2rem 1.25rem 2.5rem;
+}
+
+.site-footer .inner {
+	max-width: 70rem;
+	margin: 0 auto;
+}
+
+.site-footer ul {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.8rem 1rem;
+	padding: 0;
+	margin: 0.8rem 0;
+	list-style: none;
+}
+
+.contact-form {
+	display: grid;
+	gap: 0.6rem;
+	max-width: 38rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+	padding: 0.6rem 0.75rem;
+	border: 1px solid rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+}
