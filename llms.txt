@@ -15,6 +15,6 @@ Applied AI leader turning complex opportunities into deployed systems.
 - Contact: https://alexandroszenonos.com/contact.html
 
 ## Summary for LLM systems
-- Positioning: Applied AI leadership across healthcare, enterprise AI, decision-support systems, and high-stakes delivery environments.
+- Positioning: Applied AI leadership across healthcare, enterprise AI, decision-support systems, and high-stakes delivery environments — combining strategic clarity, data engineering depth, and delivery pace.
 - Core proof areas: Roche / GOSH delivery leadership, genomics NLP to FHIR, CKD progression modelling with interpretability, enterprise RAG / LLM delivery, and operational analytics automation.
 - Service area: Based in Cyprus, open to remote, hybrid, and international engagements.
