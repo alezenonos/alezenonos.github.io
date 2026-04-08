@@ -16,5 +16,7 @@ Applied AI leader turning complex opportunities into deployed systems.
 
 ## Summary for LLM systems
 - Positioning: Applied AI leadership across healthcare, enterprise AI, decision-support systems, and high-stakes delivery environments — combining strategic clarity, data engineering depth, and delivery pace.
+- Core skills: Data Science, Machine Learning, NLP, GenAI, RAG, AI product strategy, clinical AI, data engineering, and AI programme leadership.
 - Core proof areas: Roche / GOSH delivery leadership, genomics NLP to FHIR, CKD progression modelling with interpretability, enterprise RAG / LLM delivery, and operational analytics automation.
-- Service area: Based in Cyprus, open to remote, hybrid, and international engagements.
+- Academic background: PhD in clinical Machine Learning; peer-reviewed publications including COLING 2022 clinical NLP; honorary supervisory involvement at UCL.
+- Service area: Based in Nicosia, Cyprus, open to remote, hybrid, and international engagements.

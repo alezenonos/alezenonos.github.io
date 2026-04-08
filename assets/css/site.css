@@ -1,3 +1,7 @@
+html {
+	scroll-behavior: smooth;
+}
+
 .skip-link {
 	position: absolute;
 	left: -9999px;
@@ -188,4 +192,30 @@ textarea:focus-visible,
 select:focus-visible {
 	outline: 2px solid #111;
 	outline-offset: 2px;
+}
+
+.case-study-meta {
+	color: rgba(0, 0, 0, 0.55);
+	font-size: 0.85rem;
+	margin-bottom: 0.4rem;
+}
+
+.timeline {
+	list-style: none;
+	padding-left: 0;
+}
+
+.timeline li {
+	margin-bottom: 0.6rem;
+	padding-left: 1rem;
+	border-left: 2px solid rgba(0, 0, 0, 0.15);
+}
+
+.proof-strip a {
+	color: inherit;
+	text-decoration: none;
+}
+
+.proof-strip a:hover {
+	text-decoration: underline;
 }
