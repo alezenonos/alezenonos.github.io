@@ -181,7 +181,7 @@ html {
 	margin-top: 0.5rem;
 }
 
-.contact-form input,
+.contact-form input:not(.hp-field),
 .contact-form textarea {
 	padding: 0.6rem 0.75rem;
 	border: 1px solid rgba(0, 0, 0, 0.2);
@@ -252,4 +252,17 @@ select:focus-visible {
 	font-size: 0.8rem;
 	color: rgba(0, 0, 0, 0.45);
 	margin-top: 0.75rem;
+}
+
+.hp-field {
+	display: none !important;
+	visibility: hidden !important;
+	position: absolute !important;
+	width: 0 !important;
+	height: 0 !important;
+	padding: 0 !important;
+	margin: 0 !important;
+	border: 0 !important;
+	overflow: hidden !important;
+	opacity: 0 !important;
 }
