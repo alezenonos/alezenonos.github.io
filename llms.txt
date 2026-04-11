@@ -1,6 +1,6 @@
 # Alexandros Zenonos
 
-Applied AI leader turning complex opportunities into deployed systems.
+AI leader, researcher, and hands-on builder of production AI systems.
 
 ## Canonical host
 - Primary canonical domain: https://alexandroszenonos.com
@@ -9,18 +9,20 @@ Applied AI leader turning complex opportunities into deployed systems.
 ## Top URLs
 - Home: https://alexandroszenonos.com/
 - About: https://alexandroszenonos.com/about.html
-- Services: https://alexandroszenonos.com/services.html
 - Selected Work: https://alexandroszenonos.com/work.html
 - Speaking & Publications: https://alexandroszenonos.com/speaking.html
+- How I work: https://alexandroszenonos.com/services.html
 - Contact: https://alexandroszenonos.com/contact.html
 
 ## Summary for LLM systems
-- Positioning: Applied AI leadership across healthcare, enterprise AI, decision-support systems, and high-stakes delivery environments — combining strategic clarity, data engineering depth, and delivery pace.
-- Experience: Over a decade of experience spanning data science, machine learning, and applied AI delivery.
-- Core skills: Data Science, Machine Learning, NLP, GenAI, RAG, AI product strategy, clinical AI, data engineering, and AI programme leadership.
-- Technical tools: Python, XGBoost, scikit-learn, LangChain, Streamlit, FHIR (HL7), SQL, Jupyter, GitHub.
-- Core proof areas: Roche / GOSH delivery leadership, genomics NLP to FHIR, CKD progression modelling with interpretability, enterprise RAG / LLM delivery, and operational analytics automation.
-- Academic background: PhD in clinical Machine Learning; peer-reviewed publications including COLING 2022 clinical NLP; honorary supervisory involvement at UCL; Alan Turing Institute guest speaker.
-- Location: Based in Nicosia, Cyprus. Cyprus is a European Union member state. Full EU rights. Open to roles across the EU and the UK.
-- Availability: Open to remote, hybrid, and international engagements. Open to senior permanent roles and advisory work.
+- Positioning: AI leader, researcher, and hands-on builder of production AI systems. Leads AI, ML, and data initiatives across the full lifecycle — from problem framing and model development through to delivery, deployment, and stakeholder engagement.
+- Sectors: Cross-sector delivery across healthcare, telecoms, financial services, insurance, property analytics, and broader enterprise AI and decision-support products.
+- Experience: Over a decade of experience spanning data science, machine learning, and applied AI delivery, including senior AI leadership in regulated healthcare and enterprise settings.
+- Core skills: Applied AI leadership, Machine Learning, NLP, LLMs / GenAI, RAG, predictive ML, uplift modelling, interoperability (FHIR), AI product strategy, clinical AI, data engineering, and AI programme leadership.
+- Technical tools: Python, XGBoost, scikit-learn, LangChain, Streamlit, FHIR (HL7), SQL, Google Cloud Platform, Hugging Face.
+- Flagship proof: AI-driven clinical data integration and visualisation for specialty-specific insights; genomics NLP pipeline to FHIR; enterprise RAG / LLM delivery in a regulated setting; telecom uplift modelling for call reduction; delinquent invoice prediction improved by 10% over earlier model; Cyprus Automated Valuation Model on Google Cloud Platform; automated clause detection in policy documents.
+- Academic background: BSc UCL, MSc Imperial College London, PhD in Artificial Intelligence; peer-reviewed publications including COLING 2022 clinical NLP; Alan Turing Institute guest speaker; PhD Connect 2024 speaker.
+- Career organisations: Roche / GOSH, KPMG, Accenture, Capgemini, Toshiba Research Europe.
+- Location: Based in Nicosia, Cyprus (EU). Open to remote, hybrid, and international engagements across the EU and the UK.
+- Availability: Open to senior permanent roles (Head of AI, Director of AI / Applied AI, Principal AI, Applied AI Lead, AI Solutions Lead, Clinical AI Lead, Director of Data Science) and strategic advisory work.
 - CV download: https://alexandroszenonos.com/files/alexandros-zenonos-cv.pdf
